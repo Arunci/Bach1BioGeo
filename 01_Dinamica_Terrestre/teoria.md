@@ -88,9 +88,9 @@ math: katex
 ![width:700px](img/tipos_borde.jpeg)
 
 --- 
-## Atmósfera e hidrosfera
+# Atmósfera e hidrosfera
 
-### Atmósfera
+## Atmósfera
 - La atmósfera es la capa gaseosa que rodea la tierra.
 - Composición:
   - $N_2$: 78%.
@@ -109,3 +109,25 @@ math: katex
   - Estratosfera. Donde se encuentra la ozonosfera.
   - Mesosfera.
 
+## Hidrosfera
+- Está formada por todo el agua de la Tierra, ya sea en estado líquido,
+  sólido o gaseoso.
+- El ciclo del agua puede verse como una máquina que funciona con energía solar
+  y que realiza erosión, movilización de materiales y modelado del relieve.
+
+--- 
+
+# El suelo
+## Edafogénesis
+- Es el proceso mediante el cual se forma a partir de las rocas el suelo.
+- Etapas:
+  - Alteración de la roca madre. Debido a los procesos de meteorización,
+  tanto física como química.
+  - Instalación de los seres vivos.
+  - Mezcla de los componentes.
+
+---
+### Factores que influyen en la edafogénesis.
+- La pendiente del terreno. La inclinación dificulta la formación del suelo.
+- El clima. La humedad y la temperatura facilitan la edafogénesis.
+- El tiempo. La formación del suelo es un proceso largo (hasta miles de años).
