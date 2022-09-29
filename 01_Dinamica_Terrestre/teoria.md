@@ -195,7 +195,7 @@ math: katex
 
 ---
 
-# Minerales
+# Minerales y rocas
 
 * Un mineral es una sustancia natural, de composición química definida, normalmente sólido e inorgánico y que tiene una cierta estructura cristalina (sus átomos se disponen de manera ordenada, en figuras geométricas).
 
@@ -207,13 +207,50 @@ Los minerales se dividen en clases según el grupo con carga negativa predominan
 * Elementos nativos. Están formados por una única especie de átomos. Ejemplos: oro, plata, cobre, diamante, grafito...
 * Sulfuros y sulfosales. Son combinaciones del azufre con metales o semimetales. Ejemplos: Galena ($PbS$) y Pirita ($FeS_2$)
 * Halogenuros. Combinación de halógeno con metal. Ejemplo: halita ($NaCl$)
-* Carbonatos y nitratos.
-* Sulfatos.
+* Carbonatos y nitratos. Entre los nitratos destacan la calcita, la dolomita y el aragonito.
+* Sulfatos. Destacamos el yeso.
 * Fosfatos.
-* Silicatos.
+* Silicatos. Básicamente están constituidos por silicio y oxígeno. Suponen alrededor de un tercio de los minerales conocidos. Por regla general son duros y difícilmente alterables. Destacamos el olivino, los granates, micas, minerales arcillosos, cuarzo...
+
 
 ---
+
+## Propiedades de los minerales
+
+---
+
+### Color
+
+* Los minerales que poseen un color característico y constante se denominan **idiocromáticos**. Ejemplos: malaquita (verde), azurita (azul), pirita (amarilla)...
+* Sin embargo la mayoría de los minerales son **alocromáticos**. Es decir, su color es muy variable, por lo que no sirve como carácterística distintiva.
+  
+---
+
+### Dureza
+
+* Se denomina **dureza** de una mineral a su resistencia al ser rayado.
+* Es de gran importancia para el reconocimiento rápido de una mineral, pues se puede determinar fácilmente.
+* Se indica de manera relativa con **la escala de Mohs**, que comprende diez minerals en orden, de mayor a menor, según su dureza:
+  1. Talco
+  2. Yeso
+  3. Calcita
+  4. Fluorita
+  5. Apatito
+  6. Feldespato
+  7. Cuarzo
+  8. Topacio
+  9. Corindón 
+  10. Diamante
+---
+
+### Brillo
+
+* Es la apariencia de la superficie de un mineral cuando se refleja la luz en él. Existen dos tipos principales:
+  1. Metálico
+  2. No metálico. A su vez se distinguen subtipos: vitreo, mate, graso...
+---
 ## Clasificación de las rocas
+
 Las rocas se clasifican según su modo de formación u origen en tres grupos:
 * **Ígneas**
 * **Sedimentarias**
@@ -239,16 +276,31 @@ Las rocas se clasifican según su modo de formación u origen en tres grupos:
 * Se clasifican según el tipo de metamorfismo.
 
 ---
+
 #### Metamorfismo regional
+
 * Es el mayoritario
 * Ocurre en áreas muy grandes que están sometidas a temperaturas, presiones y deformaciones extremas.
 * Característico de zonas de convergencia entre placas.
 
 ---
 
-### Metamorfismo de contacto
+#### Metamorfismo de contacto
+
 * Se da cuando el calor y los fluidos magmáticos actúan para producir el cambio.
 
-### Metamorfismo dinámico
+#### Metamorfismo dinámico
+
 * Se origina debido a la presión.
 * Se asocia con zonas de fallas.
+
+---
+
+### Rocas sedimentarias
+
+* Son aquellas que han sido formadas debido a al acumulación de sedimentos.
+* Constituyen el 75% de las rocas de la superfice terrestre.
+* Se pueden clasficar según su:
+  * Formación.
+  * Composición
+
